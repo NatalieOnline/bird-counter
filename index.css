@@ -35,14 +35,7 @@ button {
     border-radius: 5px;
 }
 
-#increment-btn {
+#increment-btn, #reset-btn, #save-btn {
     background: #EEBEDF;
 }
 
-#save-btn {
-    background: #EEBEDF;
-}
-#total-btn{
-    background: #EEBEDF;
-    
-}
